@@ -1,0 +1,36 @@
+h1 {
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+}
+
+table {
+    margin-left: 40%;
+    background-color: red;
+    justify-content: center;
+}
+
+td {
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: black;
+	width: 50px;
+	height: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.scores {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
